@@ -263,7 +263,7 @@ The wizard will ask for your Azure subscription, resource group, App Service nam
 
 ### Updating After First Deploy
 
-Pull latest dari GitHub, rebuild everything, dan redeploy:
+Pull the latest from GitHub, rebuild everything, and redeploy:
 
 ```bash
 make update
